@@ -1,0 +1,19 @@
+{
+  "helloWorld": "Hello World!",
+  "getStarted": "Get Started",
+  "settingsTitle": "Settings",
+  "languageSetting": "Language Setting",
+  "favoriteDestinationsSetting": "Favorite Destinations Setting",
+  "interactiveOfflineMaps": "Interactive Offline Maps",
+  "destinationGuides": "Destination Guides",
+  "continueLabel": "Continue",
+  "introPageTitle": "Introduction",
+  "interactiveOfflineMapsDescription": "Explore maps offline with our interactive guide.",
+  "destinationGuidesDescription": "Get detailed guides for top destinations.",
+  "homepageTitle": "Home",
+  "searchHint": "Search...",
+  "exploreDestinations": "Explore Destinations",
+  "map": "Map",
+  "ethiopianMeal": "Ethiopian Meal",
+  "hotelsRestaurants": "Hotels & Restaurants"
+}

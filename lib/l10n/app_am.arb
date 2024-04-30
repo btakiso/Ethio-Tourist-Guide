@@ -1,0 +1,19 @@
+{
+  "helloWorld": "ሰላም አለም!",
+  "getStarted": "ጀምር",
+  "settingsTitle": "ቅንብሮች",
+  "languageSetting": "የቋንቋ ቅንብር",
+  "favoriteDestinationsSetting": "የተወደዱ መድረሻዎች ቅንብር",
+  "interactiveOfflineMaps": "የተሳካ ኦፍላይን ካርታዎች",
+  "destinationGuides": "መድረሻ መመሪያዎች",
+  "continueLabel": "ቀጥል",
+  "introPageTitle": "መግቢያ",
+  "interactiveOfflineMapsDescription": "ከኢንተርኔት ውጪ በእንቅስቃሴ የሚሰራ ካርታዎችን እንዲሰሩ ያደርጋል።",
+  "destinationGuidesDescription": "ለተለያዩ መድረሻዎች የተሞላ መመሪያዎችን ያቀርባል።",
+  "homepageTitle": "መነሻ ገጽ",
+  "searchHint": "ፈልግ...",
+  "exploreDestinations": "መድረሻዎችን እይ",
+  "map": "ካርታ",
+  "ethiopianMeal": "ኢትዮጵያዊ ምግብ",
+  "hotelsRestaurants": "ሆቴሎች እና ሪስቶራንቶች"
+}
